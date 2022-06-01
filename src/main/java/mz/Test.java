@@ -17,7 +17,7 @@ public class Test {
     public static void main(String[] args) throws Exception {
 
         /**
-         * 商贷4次提前还款案例封装
+         * 商贷还款案例封装
          */
         Callable<List<String>> businesslending = new Callable<List<String>>() {
             @Override
